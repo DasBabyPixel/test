@@ -4,7 +4,7 @@ plugins {
 
 group = "eu.darkcube.system"
 version = "1.0-SNAPSHOT"
-
+// what
 repositories {
     mavenCentral()
 }
