@@ -14,6 +14,8 @@ dependencies {
     testImplementation("org.junit.jupiter:junit-jupiter")
 }
 
+// test comment
+
 tasks.test {
     useJUnitPlatform()
 }
